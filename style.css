@@ -1,5 +1,5 @@
 body {
-    background: rgb(125,198,205);
+    background: rgb(125 , 198, 205);
     color:rgb(23, 22, 22);
     padding: 10px;
     font-family:Arial, sans-serif;
@@ -43,7 +43,7 @@ a {
     color: #fff;
 }
  main{
-    background: rgb(245, 238, 219);
+    background: rgb(210, 148, 195);
     display: flex;
     margin-top: 20 px;
  }
