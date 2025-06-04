@@ -71,6 +71,7 @@ a {
     margin: 0px;
   }
 
+  
 .content h1 {
   color: black;
 }
@@ -95,6 +96,8 @@ a {
   text-decoration: none;
   color: #454545;
 }
+
+
 @media screen and (min-width: 120px) and (max-width: 1080px) {
   main {
     height: 100ch;
