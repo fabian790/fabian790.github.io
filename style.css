@@ -2,7 +2,7 @@ body {
     background: rgb(125 , 198, 205);
     color:rgb(23, 22, 22);
     padding: 10px;
-    font-family:Arial, sans-serif;
+    font-family:"Gill Sans", "arial" ;
 }
 
 #all-contents{ 
@@ -27,7 +27,17 @@ h1{
     flex:1;
     margin: 0;
 }
-
+p{ color :white}
+ h2{
+    color:white 
+ }
+ li{
+    color:white 
+    
+ }
+ H3{
+    color: white
+ }
 #nav-ul {
     list-style-type: none;
     margin: 0;
@@ -45,6 +55,7 @@ a {
 }
  main{
     background: rgb(210, 148, 195);
+
     display: flex;
     margin-top: 20 px;
  }
@@ -71,7 +82,7 @@ a {
     margin: 0px;
   }
 
-  
+
 .content h1 {
   color: black;
 }
