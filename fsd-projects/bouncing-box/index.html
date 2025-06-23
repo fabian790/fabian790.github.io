@@ -9,7 +9,7 @@
 		.box {
 			width: 70px;
 			height: 70px;
-			background-color: teal;
+			background-color: purple;
 			font-size: 300%;
 			text-align: center;
 			user-select: none;
@@ -71,7 +71,7 @@
 			// TODO 2 - Variable declarations 
                var positionX = 0;
 			   var points = 0;
-               var speed = 30
+               var speed = 1;
 
 
 			/* 
@@ -99,7 +99,6 @@
 			*/
 			function handleBoxClick( ) {
              positionX = 0;
-			 var points = 0
 			 points ++ ;
 			 changeBoxText( points )
 			 speed = 3 * points + 10 ;
